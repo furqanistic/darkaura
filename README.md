@@ -1,12 +1,10 @@
 # Dark Aura Theme
 
-[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/furqanistic.dark-aura-theme?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&label=VS%20Code&labelColor=1e1e1e&color=007ACC)](https://marketplace.visualstudio.com/items?itemName=furqanistic.dark-aura-theme)
-[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/furqanistic.dark-aura-theme?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&label=Downloads&labelColor=1e1e1e&color=00ff00)](https://marketplace.visualstudio.com/items?itemName=furqanistic.dark-aura-theme)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/furqanistic/darkaura)
 
 A super dark VS Code theme with bright, vibrant colors designed for developers who love working in the darkest environments with eye-catching syntax highlighting.
 
-![Dark Aura Theme Preview](Example1.png)
+![Dark Aura Theme Preview](Example2.webp)
 
 ## ✨ Features
 
@@ -63,19 +61,17 @@ A super dark VS Code theme with bright, vibrant colors designed for developers w
 
 ### JavaScript/React Code
 
-![JavaScript Preview](Example1.png)
+![JavaScript Preview](Example2.webp)
 
-### HTML/CSS Styling
+![JavaScript Preview](Example3.webp)
 
-![HTML CSS Preview](Example2.png)
+### Python Code
 
-### JSON Configuration
-
-![JSON Preview](Example3.png)
+![Python Preview](Example1.webp)
 
 ### Terminal & UI
 
-![Terminal Preview](Example4.png)
+![Terminal Preview](Example4.webp)
 
 ## Installation
 
