@@ -1,11 +1,13 @@
 {
   "name": "dark-aura-theme",
-  "displayName": "Dark Aura",
-  "description": "A super dark theme with bright, vibrant colors.",
+  "displayName": "Dark Aura Theme",
+  "description": "🌙 A super dark VS Code theme with bright, vibrant syntax colors perfect for night coding sessions. Optimized for JavaScript, React, Python, and more.",
   "version": "1.0.0",
   "publisher": "Furqan",
   "author": {
-    "name": "Furqan"
+    "name": "Furqan",
+    "email": "hello@furqan.cc",
+    "url": "https://furqan.cc"
   },
   "icon": "icon.png",
   "galleryBanner": {
@@ -22,19 +24,39 @@
     "dark",
     "theme",
     "aura",
-    "javascript",
-    "react",
-    "node",
-    "mern",
-    "cyberpunk",
-    "neon",
-    "darker",
-    "darkest",
+    "ultra-dark",
+    "night",
+    "black",
     "vibrant",
     "colorful",
-    "color",
-    "black",
-    "hacker"
+    "neon",
+    "cyberpunk",
+    "javascript",
+    "typescript",
+    "react",
+    "jsx",
+    "tsx",
+    "html",
+    "css",
+    "python",
+    "json",
+    "node",
+    "nodejs",
+    "mern",
+    "frontend",
+    "backend",
+    "fullstack",
+    "web-development",
+    "coding",
+    "programming",
+    "developer",
+    "syntax-highlighting",
+    "eye-friendly",
+    "night-owl",
+    "darker",
+    "darkest",
+    "hacker",
+    "terminal"
   ],
   "contributes": {
     "themes": [
@@ -47,19 +69,51 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/furqanistic/darkaura"
+    "url": "https://github.com/furqanistic/darkaura.git"
   },
   "homepage": "https://github.com/furqanistic/darkaura#readme",
   "bugs": {
     "url": "https://github.com/furqanistic/darkaura/issues"
   },
   "license": "MIT",
+  "sponsor": {
+    "url": "https://github.com/sponsors/furqanistic"
+  },
+  "preview": false,
+  "extensionKind": [
+    "ui"
+  ],
+  "qna": "https://github.com/furqanistic/darkaura/discussions",
+  "badges": [
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/v/furqanistic.dark-aura-theme",
+      "href": "https://marketplace.visualstudio.com/items?itemName=furqanistic.dark-aura-theme",
+      "description": "Version"
+    },
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/d/furqanistic.dark-aura-theme",
+      "href": "https://marketplace.visualstudio.com/items?itemName=furqanistic.dark-aura-theme",
+      "description": "Downloads"
+    },
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/r/furqanistic.dark-aura-theme",
+      "href": "https://marketplace.visualstudio.com/items?itemName=furqanistic.dark-aura-theme",
+      "description": "Rating"
+    }
+  ],
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish",
+    "vscode:prepublish": "npm run package"
+  },
   "files": [
     "themes/",
     "icon.png",
     "Example1.webp",
     "Example2.webp",
     "Example3.webp",
-    "Example4.webp"
+    "Example4.webp",
+    "README.md",
+    "LICENSE"
   ]
 }
