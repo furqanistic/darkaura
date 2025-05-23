@@ -1,0 +1,35 @@
+{
+  "name": "dark-aura-theme",
+  "displayName": "Dark Aura",
+  "description": "A super dark theme with bright, vibrant colors for MERN developers",
+  "version": "1.0.0",
+  "publisher": "your-username",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "aura",
+    "javascript",
+    "react",
+    "node",
+    "mern"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Aura",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-aura-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "your-repo-url"
+  }
+}
