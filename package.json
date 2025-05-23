@@ -1,9 +1,17 @@
 {
   "name": "dark-aura-theme",
   "displayName": "Dark Aura",
-  "description": "A super dark theme with bright, vibrant colors for MERN developers",
+  "description": "A super dark theme with bright, vibrant colors.",
   "version": "1.0.0",
-  "publisher": "your-username",
+  "publisher": "furqanistic",
+  "author": {
+    "name": "Furqan"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0a0a0f",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -17,7 +25,16 @@
     "javascript",
     "react",
     "node",
-    "mern"
+    "mern",
+    "cyberpunk",
+    "neon",
+    "darker",
+    "darkest",
+    "vibrant",
+    "colorful",
+    "color",
+    "black",
+    "hacker"
   ],
   "contributes": {
     "themes": [
@@ -30,6 +47,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "your-repo-url"
-  }
+    "url": "https://github.com/furqanistic/darkaura"
+  },
+  "homepage": "https://github.com/furqanistic/darkaura#readme",
+  "bugs": {
+    "url": "https://github.com/furqanistic/darkaura/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "themes/",
+    "icon.png",
+    "Example1.png",
+    "Example2.png",
+    "Example3.png",
+    "Example4.png"
+  ]
 }
